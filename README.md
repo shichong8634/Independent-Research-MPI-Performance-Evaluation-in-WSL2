@@ -54,7 +54,14 @@ All tasks were processed correctly in these tests. Throughput increased with wor
 
 ## Project Structure
 
-
+mpi-performance-evaluation-wsl2/
+├── README.md
+├── data
+├── graph
+├── OriginPro 2024b
+├── HPC_personal_paper.docx
+├── HPC_personal_paper.pdf
+└─────
 
 ## Limitations
 
