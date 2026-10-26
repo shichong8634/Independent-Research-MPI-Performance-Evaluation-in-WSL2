@@ -54,7 +54,7 @@ All tasks were processed correctly in these tests. Throughput increased with wor
 
 ## Project Structure
 
-mpi-performance-evaluation-wsl2/
+Independent-Research-MPI-Performance-Evaluation-in-WSL2/
 ├── README.md
 ├── data
 ├── graph
